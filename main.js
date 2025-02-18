@@ -16,7 +16,7 @@ function renderMessage() {
         <div class="heart">❤️</div>
         <div class="heart">❤️</div>
       </div>
-      <h1 class="text-2xl">Because You Have No Idea How Much I Love You!</h1>
+      <h1 class="text-2xl">You Have No Idea How Much I Love You Omayma</h1>
       <p class="text-lg">
         You are not just my love, but my best friend, my confidante, and my greatest adventure. Thank you for sharing your heart with me, for being the first person I want to talk to when I wake up and the last voice I want to hear before I sleep.
       </p>
